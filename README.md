@@ -4,7 +4,9 @@
 This project delivers the interactive fire analytics report to the user. It is a Data Analytics project integrated with Software engineering components to automate things as much as possible. It wad done with a group of 5 members in an Agile model with the client N-ask Inc.
 
 Check out the project code here: https://github.com/PranaviNallamalla/DAEN-Project---Team-Data-Transformers
+
 Final Report - Documentation: https://docs.google.com/document/d/17Nht17rUxx2mXScVpXTkS0F9loeRa4OA/edit?usp=share_link&ouid=118034089095921187297&rtpof=true&sd=true
+
 Presentation - https://docs.google.com/presentation/d/1Y-qpiyXgxj8KwXhu-PDDwi7IeVF7IdvM/edit?usp=share_link&ouid=118034089095921187297&rtpof=true&sd=true
 
 
