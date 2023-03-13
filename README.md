@@ -3,7 +3,7 @@
 # Interactive Fire Analytics Report System
 
 
-# This project delivers the interactive fire analytics report to the user. It is a Data Analytics project integrated with Software engineering components to automate things as much as possible. It wad done with a group of 5 members in an Agile model with the client N-ask Inc.
+This project delivers the interactive fire analytics report to the user. It is a Data Analytics project integrated with Software engineering components to automate things as much as possible. It wad done with a group of 5 members in an Agile model with the client N-ask Inc.
 
 
 
