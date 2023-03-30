@@ -1,10 +1,7 @@
 #Interactive Fire Analytics Report System
 
-Technologies used: SQL, Python, R, Tableau, AWS, Brewlytics
 
-
-
-This project delivers the interactive fire analytics report to the user. It is a Data Analytics project integrated with Software engineering components to automate things as much as possible. It wad done with a group of 5 members in an Agile model with the client N-ask Inc.
+This project delivers the interactive fire analytics report to the user(Analysts from US Intelligence and Defence Communities). It is a Data Analytics project integrated with Software engineering components to automate things as much as possible. It wad done in an Agile model using SDLC methodology with the client N-ask Inc.
 
 Check out the project code here: https://github.com/PranaviNallamalla/DAEN-Project---Team-Data-Transformers
 
