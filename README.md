@@ -1,5 +1,6 @@
-# Business Intelligence - Interactive Fire Analytics Report System
+#Interactive Fire Analytics Report System
 
+Technologies used: SQL, Python, R, Tableau, AWS, Brewlytics
 
 
 
